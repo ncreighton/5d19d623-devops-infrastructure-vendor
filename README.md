@@ -1,2 +1,28 @@
-# 5d19d623-devops-infrastructure-vendor
-Score vendors, track contracts, manage renewals, and compare proposals. Systematic purchasing decisions instead of gut feeling.
+# DevOps & Infrastructure Vendor Evaluation and Procurement Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU4gz7r14sc9JKbzSd071A)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU4gz7r14sc9JKbzSd071A)
+
